@@ -6,7 +6,7 @@
 
 ## 💻 Full Stack Developer
 
-👋 Hi there! I'm Bereket Wale, a passionate developer with over 5 years of experience in building dynamic web and mobile applications. Currently, I’m working as a Full Stack Developer at Zenbile Gebeya in Ethiopia, where I lead projects and collaborate with talented teams.
+👋 Hi there! I'm Bereket Wale, a passionate developer with over 3 years of experience in building dynamic web and mobile applications. Currently, I’m working as a Full Stack Developer at GCOIN in Ethiopia, where I lead projects and collaborate with talented teams.
 
 I specialize in the MERN stack and enjoy working with React, Next.js, and Redux to create seamless user experiences. I'm also skilled in mobile app development with React Native, allowing me to deliver high-quality applications for both iOS and Android. Additionally, I have a solid background in back-end development with Python (Django) and Java. I love leveraging technologies like Tailwind CSS to craft beautiful and responsive designs.
 
